@@ -1,0 +1,66 @@
+Audit file created.
+Begin processing election file.
+Determine it is an IR election.
+
+Start running an IR election.
+
+Process the rest of the file.
+There are 4 candidates.
+Add candidate Rosen of party D
+Add candidate Kleinberg of party R
+Add candidate Chou of party I
+Add candidate Royce of party L
+There are 6 ballots.
+To win the election by a majority of votes, a candidate needs 4 votes.
+Assign ballot to Rosen
+Assign ballot to Rosen
+Assign ballot to Rosen
+Assign ballot to Chou
+Assign ballot to Chou
+Assign ballot to Royce
+End processing the file.
+
+Round 1
+Rank the candidates.
+Rosen: 3 votes
+Chou: 2 votes
+Royce: 1 votes
+Kleinberg: 0 votes
+End rank the candidates.
+There is no majority.
+Candidate(s) with the lowest number of votes:
+Kleinberg
+Remove Kleinberg
+Redistribute votes.
+Rosen 3 votes
+Chou 2 votes
+Royce 1 votes
+End redistribute votes.
+
+Round 2
+Rank the candidates.
+Rosen: 3 votes
+Chou: 2 votes
+Royce: 1 votes
+End rank the candidates.
+There is no majority.
+Candidate(s) with the lowest number of votes:
+Royce
+Remove Royce
+Redistribute votes.
+Rosen 4 votes
+Chou 2 votes
+End redistribute votes.
+
+Round 3
+Rank the candidates.
+Rosen: 4 votes
+Chou: 2 votes
+End rank the candidates.
+Rosen has the majority.
+
+The winner is Rosen of party D
+
+Vote aggregation has now completed.
+Generate media file for an IR election.
+Display the results to the user.

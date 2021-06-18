@@ -1,0 +1,11 @@
+The number of ballots cast: 9 
+The number of candidates that ran: 6 
+The number of seats available: 7 
+The candidates were: Pike, representing the democratic party; Foster, representing the democratic party; Deutsch, representing the republican party; Borg, representing the republican party; Jones, representing the republican party; Smith, independent.
+The winners of the election were:
+Pike of party , representing the democratic party, with 4 votes.
+Foster of party , representing the democratic party, with 4 votes.
+Jones of party , representing the republican party, with 0 votes.
+Deutsch of party , representing the republican party, with 0 votes.
+Borg of party , representing the republican party, with 0 votes.
+Smith of party , independent, with 1 votes.

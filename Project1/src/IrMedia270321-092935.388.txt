@@ -1,0 +1,4 @@
+The number of ballots cast: 6 
+The number of candidates that ran: 4 
+The candidates were: Rosen, representing the democratic party; Kleinberg, representing the republican party; Chou, independent; Royce, representing the libertarian party.
+The winner of the election is Rosen, representing the democratic party, with 4 votes.

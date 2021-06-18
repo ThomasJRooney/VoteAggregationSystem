@@ -1,0 +1,77 @@
+Audit file created.
+Begin processing election file.
+Determine it is an OPL election.
+Start running an OPL election.
+Start processing candidates and ballots.
+Set number of candidates to 6
+Create party D
+Add Pike to party D
+Add Foster to party D
+Create party R
+Add Deutsch to party R
+Add Borg to party R
+Add Jones to party R
+Create party I
+Add Smith to party I
+Set number of seats to 7
+Set number of ballots to 9
+Calculate quota to be 1
+Assign ballot to Pike
+Assign ballot to Pike
+Assign ballot to Foster
+Assign ballot to Foster
+Assign ballot to Pike
+Assign ballot to Foster
+Assign ballot to Foster
+Assign ballot to Pike
+Assign ballot to Smith
+Start of first distribution.
+Assign party D 8 seat(s) from 8 votes.
+Assign party R 0 seat(s) from 0 votes.
+Assign party I 1 seat(s) from 1 votes.
+End of first distribution.
+Begin ranking parties in order based on remainder left.
+Flip a coin for a tie between parties:
+D
+R
+I
+Party D won the tie, and was ranked higher.
+Flip a coin for a tie between parties:
+R
+I
+Party R won the tie, and was ranked higher.
+Start of second distribution.
+End of second distribution.
+D awarded 6 too many seat(s).
+I awarded 0 too many seat(s).
+I awarded 0 too many seat(s).
+R awarded a seat in the redistribution.
+R awarded a seat in the redistribution.
+R awarded a seat in the redistribution.
+There are/is 1 seat(s) still available.
+Distributing seats to candidates with the most votes.
+Begin ranking candidates in order based on votes received.
+Flip a coin for a tie between candidates: 
+Pike
+Foster
+Candidate Foster won the tie, and was ranked higher.
+Add Foster as a winner with 4 votes.
+Add Pike as a winner with 4 votes.
+Begin ranking candidates in order based on votes received.
+Flip a coin for a tie between candidates: 
+Deutsch
+Borg
+Jones
+Candidate Jones won the tie, and was ranked higher.
+Flip a coin for a tie between candidates: 
+Deutsch
+Borg
+Candidate Deutsch won the tie, and was ranked higher.
+Add Jones as a winner with 0 votes.
+Add Deutsch as a winner with 0 votes.
+Add Borg as a winner with 0 votes.
+Begin ranking candidates in order based on votes received.
+Add Smith as a winner with 1 votes.
+Vote aggregation has now completed.
+Generate media file for an OPL election.
+Display the results to the user.
